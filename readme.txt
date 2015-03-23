@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Custom popping layouts. Insert ready to use shortcodes in just a few clicks. 
+Custom popping layouts.Insert ready to use shortcodes in just a few clicks. 
 
 == Description ==
 
