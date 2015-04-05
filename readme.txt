@@ -60,7 +60,7 @@ This plugin comes Localization/Internationalization ready. It is following WordP
 
 **Full version of the plugin**
 
-Upgrade to the full version of [Popping Content](http://otwthemes.com/product/popping-content-for-wordpress/?utm_source=wp.org&utm_medium=page&utm_content=upgrade&utm_campaign=pc) |
+Upgrade to the full version of [Popping Content](http://codecanyon.net/item/popping-content-for-wordpress-/10729697?ref=OTWthemes) |
 [Demo site](http://otwthemes.com/demos/1ts/?item=Popping%20Content&utm_source=wp.org&utm_medium=page&utm_content=upgrade&utm_campaign=pc) 
 
 * Responsive Layouts in your Overlay
