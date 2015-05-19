@@ -4,7 +4,7 @@ Plugin Name: Popping Content Light
 Plugin URI: http://OTWthemes.com
 Description:  Create custom popping layouts and insert ready to use shortcodes in just a few clicks. 
 Author: OTWthemes.com
-Version: 1.0
+Version: 1.1
 
 Author URI: http://themeforest.net/user/OTWthemes
 */
