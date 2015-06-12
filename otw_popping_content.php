@@ -4,7 +4,7 @@ Plugin Name: Popping Content Light
 Plugin URI: http://OTWthemes.com
 Description:  Create custom popping layouts and insert ready to use shortcodes in just a few clicks. 
 Author: OTWthemes.com
-Version: 1.1
+Version: 1.2
 
 Author URI: http://themeforest.net/user/OTWthemes
 */
@@ -13,8 +13,8 @@ load_plugin_textdomain('otw_pcl',false,dirname(plugin_basename(__FILE__)) . '/la
 
 $otw_pcl_plugin_url = plugin_dir_url( __FILE__);
 
-$otw_pcl_js_version = '1.1';
-$otw_pcl_css_version = '1.2';
+$otw_pcl_js_version = '1.2';
+$otw_pcl_css_version = '1.3';
 
 //include functons
 require_once( plugin_dir_path( __FILE__ ).'/include/otw_pcl_functions.php' );
